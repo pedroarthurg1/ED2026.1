@@ -285,4 +285,4 @@ float* somaVetor(float* v1 , float* v2 ,int n1 , int n2, int n) {
     return novo;
 }
 
-
+// ARRAYS UNIDIMENSIONAIS
